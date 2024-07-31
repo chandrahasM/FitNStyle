@@ -51,3 +51,19 @@ To set up the project locally, follow these steps:
     ```bash
     yarn run dev
 Check the URL in your terminal and use it in your browser to view the app
+
+## Screenshots
+
+### Dashboard View with Personal details
+<img width="490" alt="image" src="https://github.com/user-attachments/assets/6027e42e-6eff-4fec-a110-410606b1fa1a">
+
+
+### Physical attributes
+<img width="494" alt="image" src="https://github.com/user-attachments/assets/b4750f89-5ae7-4a4c-8cc7-35427921d30d">
+
+### Style preferences
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/62700961-7675-447d-b888-fbb437b38b09">
+
+### Color Season
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/6e03effe-e2bc-4f98-9302-b8221739b026">
+
