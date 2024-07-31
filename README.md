@@ -40,5 +40,10 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/sync-n-style-platform.git
-   cd sync-n-style-platform
+   git clone https://github.com/chandrahasM/FitNStyle.git
+   cd syncNStyle
+
+2. **Install dependencies:**
+Ensure you have Node.js and Yarn installed. Then run:
+```bash
+yarn install
