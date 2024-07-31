@@ -44,10 +44,10 @@ To set up the project locally, follow these steps:
    cd syncNStyle
 
 2. **Install dependencies:**
-Ensure you have Node.js and Yarn installed. Then run:
-```bash
-yarn install
-
-3. ** Run development server:**
-```bash
-yarn run dev
+    Ensure you have Node.js and Yarn installed. Then run:
+    ```bash
+    yarn install
+3. **Run development server:**
+    ```bash
+    yarn run dev
+Check the URL in your terminal and use it in your browser to view the app
