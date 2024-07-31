@@ -47,3 +47,7 @@ To set up the project locally, follow these steps:
 Ensure you have Node.js and Yarn installed. Then run:
 ```bash
 yarn install
+
+3. ** Run development server:**
+```bash
+yarn run dev
